@@ -1,0 +1,26 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CancuiW/grunt.git"
+  },
+  "author": "CanCui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CancuiW/grunt/issues"
+  },
+  "homepage": "https://github.com/CancuiW/grunt#readme"
+}
